@@ -1,2 +1,0 @@
-Patient,Isolation_Forest_Anomaly,Distance_Based_Anomaly,length_Z_Score,weightpre_Z_Score,weightpost_Z_Score,bmipre_Z_Score,bmipost_Z_Score,waistpre_Z_Score,waistpost_Z_Score,pulsepre_Z_Score,pulsepost_Z_Score
-1,False,False,1.4459618372367622,0.7900824506436533,0.6931477006153173,0.8194140421277604,0.6925532427892235,1.2965284667415338,1.350600607790261,0.2398886284872445,1.2029665585335023
